@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>The New Pawculus Rufft</title>
+
+<!--css reset code-->
+	<link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css">
+
+<!--jquery-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!--<script src="js/jquery.scrollTo.min.js"></script>-->
+
+<!--stylesheet-->
+<!--This was a pain to set up. Any device with a horizontal resolution of 570px or more (barely enough not to have things overlap) gets the regular desktop css file, whereas anything less gets a mobile one.-->
+	<link rel="stylesheet" media="screen and (min-width: 700px)" type="text/css" href="css/style.css">
+	<link rel="stylesheet" media="screen and (max-width: 699px)" type="text/css" href="css/mstyle.css">
+<!--javascript-->
+<script src="js/main.js"></script>
+
+<!--Css-only carousel-->
+<link rel="stylesheet" href="css/gallery.theme.css">
+<link rel="stylesheet" href="css/gallery.min.css">
+</head>
+
+<body>
+<header>
+<!--Logo and title-->
+  <img src="http://placehold.it/64x64.png" id="logo"/>
+    <h1 id="title">Pawculus</h1>
+
+  <!--Navbar-->  
+  <!--Be warned, because of the float left css tag, the navigation texts will appear from bottom to top-->
+  <a href="#">About Us</a>
+  <a href="#pricing">Pricing</a>
+  <a href="#info">What is Pawculus</a>
+  <a href="#carousel">Home</a> 
+
+</header>
+
+<div class="gallery autoplay items-4" id="carousel">
+  <div id="item-1" class="control-operator"></div>
+  <div id="item-2" class="control-operator"></div>
+  <div id="item-3" class="control-operator"></div>
+  <div id="item-4" class="control-operator"></div>
+
+    <figure class="item" id="carousel1">
+      <h1>From the creators of Cat Google Glass, Pawculus is the next big step in canine virtual reality technology.</h1>
+    </figure>
+
+    <figure class="item" id="carousel2">
+      <h1>"Pawculus is the best virtual reality device for dogs around"</h1>
+    </figure>
+
+    <figure class="item" id="carousel3">
+      <h1>"Well, there isn't really any other VR products for dogs, so I guess this is the best"</h1>
+    </figure>
+
+    <figure class="item" id="carousel4">
+      <h1>"My dog loves it! It's too bad we can't get it off though"</h1>
+    </figure>
+
+  <div class="controls">
+    <a href="#item-1" class="control-button">&#149;</a>
+    <a href="#item-2" class="control-button">&#149;</a>
+    <a href="#item-3" class="control-button">&#149;</a>
+    <a href="#item-4" class="control-button">&#149;</a>
+  </div>
+</div>
+
+
+<div id="info">
+
+  <div id="video">
+    <iframe src="https://player.vimeo.com/video/123728069" id="pawculus-video" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+
+  <h2>What is Pawculus?</h2>
+  <p>From the creators of the Google Cat Glass (Name subject to change) comes the Pawculus Rufft, a fully immersive, affordable virtual reality device for dogs.</p>
+  <p>Phasellus quis nibh a nisl accumsan elementum ac non justo. Ut porta vulputate nibh, vitae sodales elit aliquam at. Aenean vitae semper odio. Aliquam vel augue risus. Maecenas tincidunt imperdiet sem ac sodales. Proin euismod libero diam, ultricies feugiat diam luctus non.</p>
+
+  <a class="btn" href="">Learn More</a>
+</div>
+
+
+<div id="pricing">
+
+
+</div>
+</body>
+</html>
