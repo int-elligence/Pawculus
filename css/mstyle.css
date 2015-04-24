@@ -1,0 +1,85 @@
+/*
+=====================================
+STYLESHEET FOR MOBILE DEVICES
+=====================================
+*/
+/*Header's same as the other one, just copy/pasted*/
+header {
+width: 100%;
+position: fixed;
+height: 100px;
+background-color: rgba(100,255,150,0.6);
+margin: 0 auto;
+top: 0px;
+left: 0px;
+z-index: 1;
+}
+
+/*Centered the text*/
+header {
+	font-family: Helvetica;
+	text-align: center;
+
+}
+
+#title {
+	padding-left: 2%;
+	color: white;
+	opacity: 0.8;
+	position: absolute;
+	font-size: 2em;
+	padding-top: 15px;
+	padding-left: 35vw;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+#logo {
+	display: none;
+
+}
+
+/*This references the h2 tag within the header, so we don't need too many classes*/
+header a {
+	display: inline-block;
+	padding-right: 2%;
+	color: white;
+	opacity: 0.8;
+	text-decoration: none;
+	margin-top: 50px;
+	font-size: 1.2em;
+	
+}
+#video {
+	width: 100vw;
+	height: 50vh;
+		position: relative;
+  top: 30%;
+  transform: translateY(-50%);
+
+}
+
+#info {
+	background-color:rgba(127, 63, 191, 0.9);
+	height: 85vh;
+-webkit-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+}
+
+#info p {
+	width: 100vw;
+	margin-top: 3vh;
+	font-family: Helvetica;
+	color: white;
+}
+#info h2 {
+	width: 100vw;
+	margin-top: 0vh;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 10vw;
+	color: white;
+	font-weight: bold;
+}
