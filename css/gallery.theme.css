@@ -74,7 +74,7 @@ pointer-events: none; /*Lets you click through to the buttons on lower resolutio
 /*Images are set to center vertically and horizontally, which can mess up some pictures that should have resizing*/
 #carousel1 {
 background-image: url(https://cloud.githubusercontent.com/assets/7114499/7318682/8d83625a-ea5c-11e4-8862-7f5a6735b005.png); 
-/* ORGINAL PATH ../img/pawculus1.png */
+/* ORGINAL PATH ../img/pawculus1.png , REPEAT THIS CHANGING LAST NUMBER FOR EACH TO RESET*/
 background-position: center center;
 background-attachment: fixed;
  background-repeat: no-repeat;
