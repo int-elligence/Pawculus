@@ -6,3 +6,5 @@ Add current section of website highlight on nav.
 
 Pricing.
 
+Nav colors?
+
