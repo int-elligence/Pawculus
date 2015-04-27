@@ -12,5 +12,5 @@ Add current section of website highlight on nav.
 
 Pricing.
 
-Nav colors?
+Nav colors? Nav Transparency? - I vote opaque through splash, and .8 through rest.
 
