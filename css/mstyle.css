@@ -5,14 +5,14 @@ STYLESHEET FOR MOBILE DEVICES
 */
 /*Header's same as the other one, just copy/pasted*/
 header {
-width: 100%;
-position: fixed;
-height: 100px;
-background-color: rgba(100,255,150,0.6);
-margin: 0 auto;
-top: 0px;
-left: 0px;
-z-index: 1;
+	width: 100%;
+	position: fixed;
+	height: 100px;
+	background-color: rgba(100,255,150,0.6);
+	margin: 0 auto;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
 }
 
 /*Centered the text*/
@@ -54,18 +54,18 @@ header a {
 #video {
 	width: 100vw;
 	height: 50vh;
-		position: relative;
-  top: 30%;
-  transform: translateY(-50%);
+	position: relative;
+  	top: 30%;
+  	transform: translateY(-50%);
 
 }
 
 #info {
 	background-color:rgba(127, 63, 191, 0.9);
 	height: 85vh;
--webkit-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
--moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+	-webkit-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+	-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
+	box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 }
 
 #info p {
