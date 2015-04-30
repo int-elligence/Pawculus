@@ -129,7 +129,8 @@ header a {
 }
 
 .btn:hover {
-  	background: #42b7ff;
+  	/*background: #42b7ff;*/
+  	background: #880E4F;
 	text-decoration: none;
 }
 
