@@ -78,7 +78,7 @@ header a {
 }
 
 #info {
-	background-color:rgba(127, 63, 191, 0.6);
+	background-color:rgba(250,186,117, 0.6);
 	padding-top: 75px;/*Lets the scroll hrefs scroll to 75px above the div*/
     	margin-top: -75px;
 	height: 60vh;
