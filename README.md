@@ -18,5 +18,5 @@ Nav colors? Nav Transparency? - I vote opaque through splash, and .8 through res
 
 Add logos to the splash for magazines that praised us.
 
-**ADD HOVER CSS FOR MOBILE**
+Fix centering of hover underline for mobile css.
 
