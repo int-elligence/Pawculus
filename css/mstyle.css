@@ -43,7 +43,7 @@ header {
 /*This references the h2 tag within the header, so we don't need too many classes*/
 header a {
 	display: inline-block;
-	padding-right: 2%;
+	margin-right: 2%;
 	color: white;
 	opacity: 0.8;
 	text-decoration: none;
