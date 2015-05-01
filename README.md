@@ -14,8 +14,6 @@ Pricing.
 
 Nav colors? Nav Transparency? - I vote opaque through splash, and .8 through rest.
 
-**Comments**
-
 Add logos to the splash for magazines that praised us.
 
 Fix centering of hover underline for mobile css.
