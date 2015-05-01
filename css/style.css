@@ -19,8 +19,9 @@ body {
 	margin-left: 5px;
 	margin-top: 5px;
 	<!--NEW-->
-	height: 50%;
-	width: 100%;
+    	width:540px; /* you can use % */
+    	height: auto;
+}
 
 }
 
