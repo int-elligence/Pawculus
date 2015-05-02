@@ -4,6 +4,8 @@ Discover the future of fetch with Pawculus.
 #Todo
 **Change description font size!**
 
+Footer.
+
 Add logo.
 
 Clean rollover from splash.
