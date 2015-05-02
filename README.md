@@ -16,3 +16,5 @@ Pricing.
 
 Add logos to the splash for magazines that praised us.
 
+**Change font to Lato family?**
+
