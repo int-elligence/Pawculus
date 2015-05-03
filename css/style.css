@@ -112,7 +112,7 @@ header a {
 	color: white;
 	font-weight: bold;
 }
-#pricing {
+/*#pricing {
 	background-color:rgba(127,181,254, 0.6);
 	padding-top: 175px;/*Lets the scroll hrefs scroll to 75px above the div*/
     	margin-top: -75px;
@@ -121,7 +121,7 @@ header a {
 	-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	overflow: hidden;
-}
+}*/
 #pricing h2 {
 	width: 100vw;
   	margin-top: -38vh;
