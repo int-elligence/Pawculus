@@ -112,6 +112,13 @@ header a {
 	color: white;
 	font-weight: bold;
 }
+#pricing {
+	margin-top: 175px;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(75, 152, 255, 0.7)
+
+}
 /*#pricing {
 	background-color:rgba(127,181,254, 0.6);
 	padding-top: 75px; Lets the scroll hrefs scroll to 75px above the div
