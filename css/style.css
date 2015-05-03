@@ -121,7 +121,7 @@ header a {
 	-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	overflow: hidden;
-}*/
+}
 #pricing h2 {
 	width: 100vw;
   	margin-top: -38vh;
@@ -130,7 +130,7 @@ header a {
   	font-size: 3vw;
   	color: white;
   	font-weight: bold;
-}
+}*/
 .btn {
   	-webkit-border-radius: 16;
   	-moz-border-radius: 16;
