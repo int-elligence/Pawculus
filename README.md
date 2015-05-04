@@ -6,8 +6,6 @@ Discover the future of fetch with Pawculus.
 
 Footer.
 
-Add logo.
-
 Clean rollover from splash.
 
 Add current section of website highlight on nav.
