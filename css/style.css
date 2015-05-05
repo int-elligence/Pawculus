@@ -182,7 +182,7 @@ header a {
   	right: 50%;
   	bottom: 0;
   	background: #FFF; /* WAS #EC407A*/
-  	opacity: .6;
+  	opacity: .8;
   	height: 4px;
   	-webkit-transition-property: left, right;
   	transition-property: left, right;
