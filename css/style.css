@@ -48,7 +48,7 @@ header {
 #title {
 	padding-left: 2%;
 	color: white;
-	opacity: 0.8;
+	opacity: 1;
 	position: absolute;
 	margin-left: 64px;
 	font-size: 2em;
@@ -62,7 +62,7 @@ header a {
 	float: right;
 	margin-right: 2%;
 	color: white;
-	opacity: 0.8;
+	opacity: 1;
 	text-decoration: none;
 	padding-top: 25px;
 	font-size: 1.5em;
@@ -182,7 +182,7 @@ header a {
   	right: 50%;
   	bottom: 0;
   	background: #FFF; /* WAS #EC407A */
-  	opacity: .8;
+  	opacity: 1;
   	height: 4px;
   	-webkit-transition-property: left, right;
   	transition-property: left, right;
