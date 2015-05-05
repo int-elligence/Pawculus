@@ -23,7 +23,7 @@ At this point, the gallery does not work very well on high-resolution android de
 .gallery {
   top: 0px;
   position: relative;
-  width: 99vw;
+  width: 100%;
   overflow: hidden;
   z-index: 0;
   height: 900px;/*Setting pixels above this as a fallback for older browsers*/
