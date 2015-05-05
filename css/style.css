@@ -181,7 +181,7 @@ header a {
   	left: 50%;
   	right: 50%;
   	bottom: 0;
-  	background: #FFF; /* WAS #EC407A*/
+  	background: #FFF; /* WAS #EC407A */
   	opacity: .8;
   	height: 4px;
   	-webkit-transition-property: left, right;
