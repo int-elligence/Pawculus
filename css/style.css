@@ -207,6 +207,7 @@ header a {
 }
 
 .pricing-form {
+	margin: 5%;
 	float: right;
 	font-family: Helvetica;
 	font-size: 1vw;
