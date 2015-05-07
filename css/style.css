@@ -206,6 +206,13 @@ header a {
 	padding: 5%;
 }
 
+.pricing-form {
+	font-family: Helvetica;
+	font-size: 3vw;
+	color: white;
+	font-weight: bold;
+}
+
 .current {
 
 }
