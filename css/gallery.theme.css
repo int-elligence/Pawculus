@@ -43,7 +43,7 @@ position: absolute;
 top: 800px;/*Again, pixels for older browsers*/
 top: 85vh; /*Positions it near the bottom*/
 pointer-events: none; /*Lets you click through to the buttons on lower resolutions*/
-
+position: absolute;
 }
 
 }
