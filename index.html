@@ -1,7 +1,18 @@
 <html>
 <head>
 <title>The New Pawculus Rufft - Discover the Future of Fetch</title>
-
+<!--Video.js-->
+<link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/4.12/video.js"></script>
+<style type="text/css">
+  .vjs-default-skin { color: #ffffff; }
+  .vjs-default-skin .vjs-play-progress,
+  .vjs-default-skin .vjs-volume-level { background-color: #fc00ff }
+  .vjs-default-skin .vjs-control-bar,
+  .vjs-default-skin .vjs-big-play-button { background: rgba(0,255,28,1) }
+  .vjs-default-skin .vjs-slider { background: rgba(0,255,28,0.3333333333333333) }
+  .vjs-default-skin .vjs-control-bar { font-size: 200% }
+</style>
 <!--favicon-->
 <head profile="http://int-elligence.github.io/Pawculus">
 <link rel="icon" type="image/png" href="https://cloud.githubusercontent.com/assets/7114499/7438098/ac782b98-f02c-11e4-8eb5-cc34d8f3de22.png">
@@ -73,7 +84,13 @@
 <div id="info">
 
   <div id="video">
-    <iframe src="https://player.vimeo.com/video/123728069" id="pawculus-video" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+   <!-- <iframe src="https://player.vimeo.com/video/123728069" id="pawculus-video" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+    <video id="MY_VIDEO_1" class="video-js vjs-default-skin" controls
+ preload="auto" width="640" height="264" poster="http://imguol.com/c/entretenimento/2015/04/01/agora-ate-seu-caozinho-podera-entrar-na-brincadeira-da-realidade-virtual-com-o-pawculus-um-oculus-rift-para-seu-pet-1427902595504_956x500.png"
+ data-setup="{}">
+ <source src="http://nosleep.site.nfoservers.com/upload/files/351780449.mp4" type='video/mp4'>
+ <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
   </div>
 
   <h2>What is Pawculus?</h2>
