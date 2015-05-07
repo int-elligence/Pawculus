@@ -207,10 +207,10 @@ header a {
 }
 
 .pricing-form {
+	float: right;
 	font-family: Helvetica;
-	font-size: 3vw;
+	font-size: 1vw;
 	color: white;
-	font-weight: bold;
 }
 
 .current {
