@@ -2,6 +2,8 @@
 Discover the future of fetch with Pawculus.
 
 #Todo
+Fix scrolling.
+
 **Add image alts for screen readers.**
 
 **Change description font size!**
