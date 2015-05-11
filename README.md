@@ -2,6 +2,8 @@
 Discover the future of fetch with Pawculus.
 
 #Todo
+Fix navigation to pricing section.
+
 Fix scrolling.
 
 **Add image alts for screen readers.**
