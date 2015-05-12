@@ -213,6 +213,7 @@ header a {
 	font-family: Helvetica;
 	font-size: 1vw;
 	color: white;
+	z-index: 15;
 }
 
 .current {
