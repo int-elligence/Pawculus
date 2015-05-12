@@ -118,6 +118,7 @@ header a {
 	font-size: 3vw;
 	color: white;
 	font-weight: bold;
+	z-index: 10;
 }
 #pricing {
 	margin-top: 175px;
