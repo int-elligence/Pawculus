@@ -24,7 +24,6 @@ At this point, the gallery does not work very well on high-resolution android de
   top: 0px;
   position: relative;
   width: 100%;
-  overflow: hidden;
   z-index: 0;
   height: 900px;/*Setting pixels above this as a fallback for older browsers*/
   height:100vh; /*100 vh is the exact size of the browser window, not the entire page. It's new in html5, so it may not work on all browsers*/
