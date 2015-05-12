@@ -208,11 +208,12 @@ header a {
 }
 
 .pricing-table {
-	margin: 0 auto;
+	position: fixed;
 	float: right;
 	font-family: Helvetica;
 	font-size: 1vw;
 	color: white;
+	left: 50vw;
 }
 
 .current {
