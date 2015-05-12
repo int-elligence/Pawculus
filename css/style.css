@@ -208,7 +208,7 @@ header a {
 }
 
 .pricing-table {
-	margin: 5%;
+	margin: 0 auto;
 	float: right;
 	font-family: Helvetica;
 	font-size: 1vw;
