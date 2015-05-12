@@ -34,7 +34,7 @@ header {
 	width: 100%;
 	position: fixed;
 	height: 75px;
-	background-color: rgba(156, 39, 176, 1); /* CONTROLS COLOR AND OPACITY OF NAVBAR. WAS @ .8 */
+	background-color: #1abc9c; /* CONTROLS COLOR AND OPACITY OF NAVBAR. WAS @ .8 */
 	margin: 0 auto;
 	top: 0px;
 	left: 0px;
