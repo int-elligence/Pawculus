@@ -213,7 +213,7 @@ header a {
 	font-family: Helvetica;
 	font-size: 1vw;
 	color: white;
-	margin-top: -400px;
+	position: fixed;
 }
 
 .current {
