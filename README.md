@@ -6,8 +6,6 @@ Fix video player icons + flat design.
 
 Fix navigation to pricing section.
 
-Fix scrolling.
-
 **Add image alts for screen readers.**
 
 **Change description font size!**
