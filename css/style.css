@@ -11,8 +11,7 @@ body {
 	/*background-size: cover; /*Responsive size*/
 	/*background-attachment: fixed; /*Fixes the bg in the viewport*/
 	height: 620%; /*Temporary tag to test fixed things*/
-	background-image: url(../img/bgtile.png);
-
+	background-image: url(../img/bgtile.png)
 }
 
 #logo {
@@ -25,9 +24,8 @@ body {
     -webkit-user-select: none;
     -ms-user-select: none; /* From IE10 only */
     user-select: none; /* Not valid CSS yet, as of July 2012 */
-
     -webkit-user-drag: none; /* Prevents dragging of images/divs etc */
-    user-drag: none;
+    user-drag: none
 }
 
 header {
@@ -38,7 +36,7 @@ header {
 	margin: 0 auto;
 	top: 0px;
 	left: 0px;
-	z-index: 1;
+	z-index: 1
 }
 
 header {
@@ -48,7 +46,7 @@ header {
 	box-shadow: 0px 7px 68px 0px rgba(0,0,0,0.25);*/
 	-webkit-box-shadow: 0px 0px 87px -30px rgba(0,0,0,1);
 	-moz-box-shadow: 0px 0px 87px -30px rgba(0,0,0,1);
-	box-shadow: 0px 0px 87px -30px rgba(0,0,0,1);
+	box-shadow: 0px 0px 87px -30px rgba(0,0,0,1)
 }
 
 #title {
@@ -60,7 +58,7 @@ header {
 	font-size: 2em;
 	padding-top: -4vh;
 	top:15px;
-	display: none;
+	display: none
 
 }
 
@@ -73,7 +71,7 @@ header a {
 	text-decoration: none;
 	padding-top: 25px;
 	font-size: 1.5em;
-	height: 50px;
+	height: 50px
 	
 }
 
@@ -87,7 +85,7 @@ header a {
 	position: relative;
 	top: 50%;
   	transform: translateY(-50%);
-  	padding-left: 2%;
+  	padding-left: 2%
 
 }
 
@@ -99,7 +97,7 @@ header a {
 	-webkit-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
-	overflow: hidden;
+	overflow: hidden
 }
 
 #info p {
@@ -108,7 +106,7 @@ header a {
 	margin-top: 4vh;
 	display: inline-block;
 	font-family: Helvetica;
-	color: white;
+	color: white
 }
 #info h2 {
 	width: 100vw;
@@ -118,7 +116,7 @@ header a {
 	font-size: 3vw;
 	color: white;
 	font-weight: bold;
-	z-index: 10;
+	z-index: 10
 }
 #pricing {
 	margin-top: 175px;
@@ -142,12 +140,12 @@ header a {
   	text-decoration: none;
   	float: right;
 	margin-top: 5%;
-  	margin-right: 18%;
+  	margin-right: 18%
 }
 
 .btn:hover {
   	background: #42b7ff;
-	text-decoration: none;
+	text-decoration: none
 }
 
 /* Underline From Center */
@@ -161,7 +159,7 @@ header a {
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  overflow: hidden;
+  overflow: hidden
 }
 .hvr-underline-from-center:before {
   	content: "";
@@ -178,11 +176,11 @@ header a {
   	-webkit-transition-duration: 0.3s;
   	transition-duration: 0.3s;
   	-webkit-transition-timing-function: ease-out;
-  	transition-timing-function: ease-out;
+  	transition-timing-function: ease-out
 }
 .hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
   	left: 0;
-  	right: 0;
+  	right: 0
 }
 
 #pricing {
@@ -200,7 +198,7 @@ header a {
 	font-family: Helvetica;
 	font-size: 3vw;
 	color: white;
-	font-weight: bold;
+	font-weight: bold
 }
 
 .pricing-img {
@@ -213,7 +211,7 @@ header a {
 	font-family: Helvetica;
 	font-size: 1vw;
 	color: white;
-	position: fixed;
+	position: fixed
 }
 
 .current {
