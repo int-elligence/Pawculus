@@ -217,4 +217,9 @@ header a {
 .current {
 
 }
+.fb-like{
+	position: relative;
+	overflow: auto;
+	resize: both;
+}
 
