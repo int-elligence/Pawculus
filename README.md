@@ -2,6 +2,8 @@
 Discover the future of fetch with Pawculus.
 
 #Todo
+**OPTIMIZE FOR CHROME! (not Safari)**
+
 Fix video player icons + flat design.
 
 Fix navigation to pricing section.
