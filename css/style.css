@@ -93,7 +93,7 @@ header a {
 	background-color:rgba(39, 174, 96,1.0);
 	/*padding-top: 75px;/*Lets the scroll hrefs scroll to 75px above the div*/
     	margin-top: -75px;
-	height: 60vh;
+	height: 80vh;
 	-webkit-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	-moz-box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
 	box-shadow: inset 0px 0px 87px -30px rgba(0,0,0,1);
