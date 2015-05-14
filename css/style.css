@@ -80,10 +80,11 @@ header a {
 }
 
 #video {
-	width: 45vw;
+	width: 40vw;
 	height: 40vh;
 	position: relative;
 	top: 50%;
+	left: 5vw;
   	transform: translateY(-50%);
   	padding-left: 2%
 
