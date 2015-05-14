@@ -18,3 +18,4 @@ Pricing.
 
 **Change font to Lato family?**
 
+Keep up with moblie css.
