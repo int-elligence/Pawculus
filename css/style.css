@@ -18,14 +18,14 @@ body {
 	margin-left: 5px;
 	margin-top: 5px;
 	height: 65px;
-    /* For Opera and <= IE9, we need to add unselectable="on" attribute onto each element */
-    /* Check this site for more details: http://help.dottoro.com/lhwdpnva.php */
-    -moz-user-select: none; /* These user-select properties are inheritable, used to prevent text selection */
-    -webkit-user-select: none;
-    -ms-user-select: none; /* From IE10 only */
-    user-select: none; /* Not valid CSS yet, as of July 2012 */
-    -webkit-user-drag: none; /* Prevents dragging of images/divs etc */
-    user-drag: none
+    	/* For Opera and <= IE9, we need to add unselectable="on" attribute onto each element */
+    	/* Check this site for more details: http://help.dottoro.com/lhwdpnva.php */
+    	-moz-user-select: none; /* These user-select properties are inheritable, used to prevent text selection */
+    	-webkit-user-select: none;
+    	-ms-user-select: none; /* From IE10 only */
+	user-select: none; /* Not valid CSS yet, as of July 2012 */
+    	-webkit-user-drag: none; /* Prevents dragging of images/divs etc */
+    	user-drag: none
 }
 
 header {
@@ -62,7 +62,7 @@ header {
 
 }
 
-/*This references the h2 tag within the header, so we don't need too many classes*/
+	/*This references the h2 tag within the header, so we don't need too many classes*/
 header a {
 	float: right;
 	margin-right: 2%;
@@ -76,7 +76,7 @@ header a {
 }
 
 #pawculus-video {
-/* ADD CUSTOM VIDEO PLAYER! Like flatui?*/
+	/* ADD CUSTOM VIDEO PLAYER! Like flatui?*/
 }
 
 #video {
@@ -149,18 +149,18 @@ header a {
 	text-decoration: none
 }
 
-/* Underline From Center */
-.hvr-underline-from-center {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -moz-osx-font-smoothing: grayscale;
-  position: relative;
-  overflow: hidden
+	/* Underline From Center */
+	.hvr-underline-from-center {
+  	display: inline-block;
+  	vertical-align: middle;
+  	-webkit-transform: translateZ(0);
+  	transform: translateZ(0);
+  	box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  	-webkit-backface-visibility: hidden;
+  	backface-visibility: hidden;
+  	-moz-osx-font-smoothing: grayscale;
+  	position: relative;
+  	overflow: hidden
 }
 .hvr-underline-from-center:before {
   	content: "";
