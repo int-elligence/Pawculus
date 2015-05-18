@@ -188,7 +188,7 @@ header a {
 	margin-top: 0px;
 	width: 100%;
 	height: 100vh;
-	background-color: rgba(142, 68, 173,1.0)
+	background-color: rgba(142, 68, 173,1)
 
 }
 
@@ -199,7 +199,7 @@ header a {
 	font-family: Helvetica;
 	font-size: 3vw;
 	color: white;
-	font-weight: bold
+	font-weight: light
 }
 
 .pricing-img {
@@ -221,6 +221,6 @@ header a {
 .fb-like{
 	position: relative;
 	overflow: auto;
-	resize: both;
+	resize: both
 }
 
