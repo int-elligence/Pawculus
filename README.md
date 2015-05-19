@@ -6,6 +6,8 @@ Fix video player icons + flat design.
 
 Fix navigation to pricing section.
 
+Have Alex actually do something ever
+
 **Change description font size!**
 
 Footer.
