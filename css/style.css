@@ -126,6 +126,9 @@ header a {
 	background-color: rgba(75, 152, 255, 0.7)
 
 }
+
+
+/*Fancy button animations*/
 .btn {
   	-webkit-border-radius: 16;
   	-moz-border-radius: 16;
@@ -218,9 +221,13 @@ header a {
 .current {
 
 }
+
+
 .fb-like{
 	position: relative;
 	overflow: auto;
 	resize: both
+	display: none;
+	
 }
 
