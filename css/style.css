@@ -235,7 +235,7 @@ header a {
 }
 
 table {
-float: left;
-position: absolute;
+float: right;
+margin-top: -60px;
 
 }
