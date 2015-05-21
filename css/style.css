@@ -242,3 +242,10 @@ header a {
 	background: #1ABC9C
 	
 }
+
+table {
+float: right;
+margin-right: 20vw;
+margin-top: 20px;
+}
+}
