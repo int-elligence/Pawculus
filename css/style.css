@@ -242,8 +242,9 @@ margin-top: 100px;
 
 .footer{
 	font-family: "Helvetica Neue";
-	font-size: 3vw;
-	background: #7F8C8D;
+	font-size: 1vw;
+	color: #FFF;
+	background: #C0392B;
 	
 	
 }
