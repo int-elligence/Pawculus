@@ -10,7 +10,7 @@ body {
 	/*background-repeat: no-repeat;/*Keeps the image from repeating*/
 	/*background-size: cover; /*Responsive size*/
 	/*background-attachment: fixed; /*Fixes the bg in the viewport*/
-	height: 620%; /*Temporary tag to test fixed things*/
+	height: 100%; /*Temporary tag to test fixed things*/
 	background-image: url(../img/bgtile.png)
 }
 
