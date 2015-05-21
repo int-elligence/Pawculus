@@ -234,18 +234,15 @@ header a {
 	display: none;
 	
 }
-
-
-
-.footer{
-	font-family: "Helvetica Neue";
-	background: #1ABC9C
-	
-}
-
 table {
 float: right;
 margin-right: 20vw;
 margin-top: 100px;
 }
+
+.footer{
+	font-family: "Helvetica Neue";
+	background: #7F8C8D;
+	
+	
 }
