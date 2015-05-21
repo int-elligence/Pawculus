@@ -236,7 +236,8 @@ header a {
 	
 }
 
-.pure-table td {
-background-color: #CBCBCB;	
-}
+table {
+float: left;
+position: absolute;
+
 }
