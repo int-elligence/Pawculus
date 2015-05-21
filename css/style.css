@@ -234,10 +234,13 @@ header a {
 	display: none;
 	
 }
-
 table {
 float: right;
 right: 0px;
 margin-top: 40px;
 margin-right: 15vw;
+}
+.footer{
+	background: #1ABC9C
+}
 }
