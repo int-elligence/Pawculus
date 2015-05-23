@@ -235,9 +235,9 @@ header a {
 	
 }
 table {
-float: right;
-margin-right: 20vw;
-margin-top: 100px;
+	float: right;
+	margin-right: 20vw;
+	margin-top: 100px;
 }
 
 .footer{
