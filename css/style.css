@@ -279,7 +279,8 @@ body {
   border-radius: 10px;
   background: #eee;
   overflow: hidden;
-  cursor: pointer
+  cursor: pointer;
+  margin: 70px
 }
 
 .social {
