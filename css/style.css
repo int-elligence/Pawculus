@@ -279,8 +279,7 @@ body {
   border-radius: 10px;
   background: #eee;
   overflow: hidden;
-  cursor: pointer;
-  margin-bottom: 70px;
+  cursor: pointer
 }
 
 .social {
@@ -333,5 +332,5 @@ body {
     rgb(236, 236, 236) 17px 17px,
     rgb(236, 236, 236) 18px 18px,
     rgb(237, 237, 237) 19px 19px,
-    rgb(238, 238, 238) 20px 20px;
+    rgb(238, 238, 238) 20px 20px
 }
