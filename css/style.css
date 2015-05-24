@@ -4,6 +4,8 @@ STYLESHEET FOR NON-MOBILE DEVICES
 =====================================
 */
 
+@import url('http://weloveiconfonts.com/api/?family=entypo');
+
 body {
 	/*background-image: url(../img/dog1.jpg);
 	background-position: center center; /*Fully centers the bg image, in case it gets cropped*/
@@ -249,8 +251,6 @@ table {
 	position: fixed
 	/*margin: 0auto;*/
 }*/
-@import url('http://weloveiconfonts.com/api/?family=entypo');
-
 * {
   margin: 0;
   padding: 0;
