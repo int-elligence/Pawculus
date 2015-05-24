@@ -280,6 +280,7 @@ body {
   background: #eee;
   overflow: hidden;
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 .social {
