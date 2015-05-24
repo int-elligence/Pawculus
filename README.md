@@ -2,7 +2,7 @@
 Discover the future of fetch with Pawculus.
 
 #Todo
-***MAKE ME NOT CRI WHEN I LOOK AT THE TABLES.***
+***default tables are love default tables are life***
 
 Fix video player icons + flat design.
 
