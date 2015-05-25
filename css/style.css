@@ -351,7 +351,7 @@ body {
 	float: right;
 }
 .table1 th {
-background-color: #c0392b;/*rgb(112, 196, 105)*/
+background-color: rgb(46, 204, 113);
 font-weight: normal;
 color: white;
 padding: 20px 30px;
