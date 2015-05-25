@@ -343,7 +343,7 @@ body {
 font-family: sans-serif;
 -webkit-font-smoothing: antialiased;
 font-size: 115%;
-width: 10vw;
+width: 200px;
 overflow: auto;
 display: block;
 margin-right: 25vw;
@@ -366,7 +366,7 @@ color: rgb(111, 111, 111);
 font-family: sans-serif;
 -webkit-font-smoothing: antialiased;
 font-size: 1em;
-width: 10vw;
+width: 200px;
 overflow: auto;
 display: block;
 }
