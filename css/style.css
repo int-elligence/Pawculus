@@ -346,7 +346,7 @@ font-size: 115%;
 width: 200px;
 overflow: auto;
 display: block;
-right: 25vw;
+right: 5vw;
 margin-top: 82px;
 float: right;
 }
@@ -371,7 +371,7 @@ width: 200px;
 overflow: auto;
 display: block;
 float: right;
-margin-right: 6vw;
+right: 6vw;
 top: 0px;
 }
 .table2 th {
