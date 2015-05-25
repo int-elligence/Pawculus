@@ -283,6 +283,7 @@ body {
   margin-bottom: 100px
 }
 
+/* oh my*/
 .social {
   box-shadow: rgb(210, 210, 210) 1px 1px,
     rgb(210, 210, 210) 2px 2px,
@@ -334,4 +335,27 @@ body {
     rgb(236, 236, 236) 18px 18px,
     rgb(237, 237, 237) 19px 19px,
     rgb(238, 238, 238) 20px 20px
+}
+
+
+/*Table stylings*/
+.table1 {
+font-family: sans-serif;
+-webkit-font-smoothing: antialiased;
+font-size: 115%;
+width: auto;
+overflow: auto;
+display: block;
+}
+.table1 th {
+background-color: rgb(112, 196, 105);
+font-weight: normal;
+color: white;
+padding: 20px 30px;
+text-align: center;
+}
+.table1 td {
+background-color: rgb(238, 238, 238);
+padding: 20px 30px;
+color: rgb(111, 111, 111);
 }
