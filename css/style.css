@@ -348,6 +348,7 @@ overflow: auto;
 display: block;
 margin-right: 25vw;
 margin-top: 82px;
+float: right;
 }
 .table1 th {
 background-color: rgb(112, 196, 105);
@@ -369,8 +370,9 @@ font-size: 1em;
 width: 200px;
 overflow: auto;
 display: block;
-position: fixed;
-right: 6vw;
+float: right;
+margin-right: 6vw;
+top: 0px;
 }
 .table2 th {
 background-color: rgb(112, 196, 105);
