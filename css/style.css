@@ -371,7 +371,7 @@ width: 200px;
 overflow: auto;
 display: inline-block;
 float: right;
-right: 30%;
+margin-right: 30%;
 margin- top: -30vh;
 }
 .table2 th {
