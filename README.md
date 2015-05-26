@@ -5,7 +5,6 @@ Discover the future of fetch with Pawculus.
 
 Fix video player icons + flat design.
 
-Fix navigation to pricing section.
+Fix navigation to Pricing section.
 
-**Add current section of website highlight on nav.**
 
